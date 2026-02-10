@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkppl_notes=globalThis.webpackChunkppl_notes||[]).push([[3525],{7636(e){e.exports=JSON.parse('{"metadata":{"permalink":"/ppl-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
